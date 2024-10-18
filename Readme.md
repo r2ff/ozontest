@@ -6,4 +6,4 @@
 
 3. Тесты написаны и находятся src/test/kotlin/GeneratorTest.kt 
 Для тестов используется JUnit5
-Основная прошрамме написана на котлине и находится в src/main/kotlin/Main.kt
+Основная программа написана на котлине и находится в src/main/kotlin/Main.kt
