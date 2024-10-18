@@ -39,8 +39,6 @@ func main() {
 	td := testData{}
 	generate(100, &td)
 	fmt.Println(len(td.phones))
-	fmt.Println(td.phones)
-
 }
 
 func randPhone() int {
